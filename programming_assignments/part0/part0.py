@@ -61,6 +61,8 @@
       * You can include additional instance variables and helper methods in 
         your design of the Questions Class as you see fit.
  
+      * Your code should be using Python version 3.x. You can use additional
+        Python libraries for this assigment (e.g. pandas). 
 
 '''
 # code section for testing your Questions class from client_csv.py
