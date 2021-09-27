@@ -62,6 +62,7 @@ from client_csv import *
        13) decimal to two's complement 
        14) two's complement to the decimal 
 
+    *** prep-work***
     In order to obtain the number conversion scenario you will:
         1) Obtain the dictionary by using the get() method from the 
            programming  assignment zero (0). 
