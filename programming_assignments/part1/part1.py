@@ -39,8 +39,8 @@ from client_csv import *
 
        iii) 'todo'
                 The value that is associated with this key specifies what your
-                converter should do, meaning it specifies the what should be
-                the new representation of the ***number***, e.g. 'oct'
+                converter should do, meaning it specifies the new 
+                representation of the ***number***, e.g. 'oct'
 
      Note: in our programming assignments numbers are of string data type.
    
