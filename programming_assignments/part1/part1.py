@@ -66,7 +66,7 @@ from client_csv import *
     In order to obtain the number conversion scenario you will:
         1) Obtain the dictionary by using the get() method from the 
            programming  assignment zero (0). 
-        2) On the dictionary you will override the value that is associated with 
+        2) In the dictionary you will override the value that is associated with 
            the 'todo' key.
            Note: see example executions at the end of this document.
             
